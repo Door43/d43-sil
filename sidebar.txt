@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sil:home|Door43 (sil)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sil|d43-sil repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sil/archive/master.zip|d43-sil.zip]]
+
+**Recent Changes**
+{{changes>ns = sil}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sil|Ethnologue data]]
+
